@@ -1,6 +1,6 @@
 # Minishell
 
-This Minishell project was completed by @alselnet and me. It is a group project at 42 school that involves creating a basic Unix shell, providing a command-line interface for users to interact with the operating system. The project aims to implement key functionalities of a shell (using bash as a reference), such as executing basic commands, handling input/output redirection, implementing built-in commands, supporting environment variables and more.
+This Minishell project was completed by [@alselnet](https://github.com/alselnet) and me. It is a group project at 42 school that involves creating a basic Unix shell, providing a command-line interface for users to interact with the operating system. The project aims to implement key functionalities of a shell (using bash as a reference), such as executing basic commands, handling input/output redirection, implementing built-in commands, supporting environment variables and more.
 
 I implemented the execution part (except the heredoc part), creating a command structure that stores essential information such as the presence of pipe, redirections, input/output files, etc. Additionally, I contributed to the completion of the built-in commands, signals management, and environment structure initialization.
 
